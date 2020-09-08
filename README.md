@@ -1,2 +1,18 @@
-# dots
+# Dots
 Genetic alghortim, dots trying to get to the finish line
+
+# Required:
+[Processing](https://processing.org/download/)
+
+# How to run:
+1. Extract
+2. Open **Simulacija.pde**
+3. Install **Interfascia**. Sketch > import library > Add library
+4. Run.
+
+# Configuraton:
+Before you click **play** you need to input the population size and press enter.
+Recommended population size: 1000
+
+# Hisotry
+This was my project during the 4th grade(last) in high school.
