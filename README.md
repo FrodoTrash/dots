@@ -14,5 +14,5 @@ Genetic alghortim, dots trying to get to the finish line
 Before you click **play** you need to input the population size and press enter.
 Recommended population size: 1000
 
-# Hisotry
+# History
 This was my project during the 4th grade(last) in high school.
