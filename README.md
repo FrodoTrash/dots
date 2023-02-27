@@ -1,6 +1,8 @@
 # Dots
 Genetic alghortim, dots trying to get to the finish line
 
+![alt text](https://github.com/frodotrash/dots/blob/master/game.png?raw=true)
+
 # Required:
 [Processing](https://processing.org/download/)
 
