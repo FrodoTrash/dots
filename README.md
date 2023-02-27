@@ -1,5 +1,5 @@
 # Dots
-Genetic alghortim, dots trying to get to the finish line
+Watch a genetic alghortim of dots attempt to avoid the obsitcle.
 
 ![alt text](https://github.com/FrodoTrash/dots/blob/master/game.PNG?raw=true)
 
